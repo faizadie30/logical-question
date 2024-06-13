@@ -8,8 +8,8 @@ let code
 # How To Run
 1. install nodejs in your local computer
 2. clone repository from github
-3. run with terminal, and use command example:
+3. run with terminal, example command:
 ```bash
-node index.js
+node factorial.js  //factorial.js is one of the file names that contains code
 ```
 4. tada successfully
